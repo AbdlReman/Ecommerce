@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.bg-img {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/025/454/631/non_2x/playful-organic-square-background-2-colorful-free-vector.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    object-fit: cover;
+    height: auto;
+}
+.image-Tag{
+    margin-top: 8rem;
+}
+/* .btn{
+    margin-top: 15rem;
+} */
+.btn .btn-1{
+    outline: none;
+    border: none;
+    padding: 8px 25px;
+    background-color: palevioletred;
+    color: white;
+    border-radius: 8px;
+}
+.card{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.Subscribe{
+    background: pink;
+    width: 100%;
+    height: auto;
+    margin-bottom: 2rem;
+}
+.inputs h1{
+    color: blueviolet;
+    font-size: 4rem;
+}
+.inputs input{
+    border: 0;
+    outline: 0;
+    padding: 10px;
+    width: 60%;
+    height: auto;
+    border-radius: 5px;
+}
+.new h4{
+    color: pink;
+}
+.cards{
+    text-align: center;
+}
+.slick-slide img {
+    display: inline-block;
+}
+.foot h4{
+    color: pink;
+}
+.foot button{
+    padding: 8px 20px;
+    background: yellow;
+    color: black;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+}
